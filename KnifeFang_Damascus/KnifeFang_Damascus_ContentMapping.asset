@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f7510c19d3152659e29183ec3512d3d, type: 3}
+  m_Name: KnifeFang_Damascus_ContentMapping
+  m_EditorClassIdentifier:
+  Mappings:
+  - Address: A
+    Path: Assets/Bundles/SunstrikeCollection/Content/Inventory/Skins/KnifeFang_Damascus/KnifeFang_Damascus_A.tga
+    Group: main
+  - Address: BumpedDiffuse
+    Path: Assets/Bundles/SunstrikeCollection/Content/Inventory/Skins/KnifeFang_Damascus/KnifeFang_Damascus_BumpedDiffuse.mat
+    Group: main
+  - Address: BumpedSpecular
+    Path: Assets/Bundles/SunstrikeCollection/Content/Inventory/Skins/KnifeFang_Damascus/KnifeFang_Damascus_BumpedSpecular.mat
+    Group: main
+  - Address: D
+    Path: Assets/Bundles/SunstrikeCollection/Content/Inventory/Skins/KnifeFang_Damascus/KnifeFang_Damascus_D.tga
+    Group: main
+  - Address: Diffuse
+    Path: Assets/Bundles/SunstrikeCollection/Content/Inventory/Skins/KnifeFang_Damascus/KnifeFang_Damascus_Diffuse.mat
+    Group: main
+  - Address: M
+    Path: Assets/Bundles/SunstrikeCollection/Content/Inventory/Skins/KnifeFang_Damascus/KnifeFang_Damascus_M.tga
+    Group: main
+  - Address: PBR
+    Path: Assets/Bundles/SunstrikeCollection/Content/Inventory/Skins/KnifeFang_Damascus/KnifeFang_Damascus_PBR.mat
+    Group: main
+  - Address: Preview
+    Path: Assets/Bundles/SunstrikeCollection/Content/Inventory/Skins/KnifeFang_Damascus/KnifeFang_Damascus_Preview.png
+    Group: ui
+  TargetContentIds:
+  - inventory/240034
